@@ -12,7 +12,7 @@ function App() {
 }
 
 function Pizza() {
-    return <h2 className="text-green-500 text-2xl">Pizza is great!</h2>
+    return <h2 className="text-green-500 text-2xl">Pizza is great!...Sometimes</h2>
 }
 
 const my_react_app = document.getElementById('app');
